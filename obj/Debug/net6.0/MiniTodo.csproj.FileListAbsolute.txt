@@ -108,3 +108,11 @@ C:\Users\luis.costa\Documents\MiniTodo\obj\Debug\net6.0\refint\MiniTodo.dll
 C:\Users\luis.costa\Documents\MiniTodo\obj\Debug\net6.0\MiniTodo.pdb
 C:\Users\luis.costa\Documents\MiniTodo\obj\Debug\net6.0\MiniTodo.genruntimeconfig.cache
 C:\Users\luis.costa\Documents\MiniTodo\obj\Debug\net6.0\ref\MiniTodo.dll
+C:\Users\luis.costa\Documents\MiniTodo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\luis.costa\Documents\MiniTodo\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\luis.costa\Documents\MiniTodo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luis.costa\Documents\MiniTodo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luis.costa\Documents\MiniTodo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luis.costa\Documents\MiniTodo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luis.costa\Documents\MiniTodo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luis.costa\Documents\MiniTodo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
